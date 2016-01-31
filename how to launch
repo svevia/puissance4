@@ -1,0 +1,2 @@
+javac -cp ap.jar:. projet.java    =>        compile
+java -cp .:ap.jar projet          =>        exec
